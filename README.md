@@ -1,4 +1,2 @@
-Elaboration-and-Construction
-============================
-
-CSCI222 System Development Assignment 2
+CSCI212 Interacting Systems Assignment 1
+========================================
