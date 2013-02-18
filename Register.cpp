@@ -1,8 +1,31 @@
-#include smth laaa
+#include "Register.h"
 
-ok
-nie
-.clear();
+Register::Register() {
+    getTransactionDetails();
+}
+
+void Register::addSalesTransaction() {
+    TransactionDetails temp; // To store the transaction details
+    cout << endl << "Adding new sales transaction...." << endl << endl;
+
+    cout << "Enter item description: " << endl;
+    cin >> temp.item;
+    cin.clear();
+    cin.ignore(100, '\n');
+
+    cout << "Enter unit price:       " << endl;
+    cin >> temp.unitPrice;
+    cin.clear();
+    cin.ignore(100, '\n');
+
+    cout << "Enter quantity:         " << endl;
+    cin >> temp.qty;
+    cin.clear();
+    cin.ignore(100, '\n');
+
+    cout << "Enter date purchased:   " << endl;
+    cin >> temp.date;
+    cin.clear();
     cin.ignore(100, '\n');
 
     //Saves details into a list called transaction
