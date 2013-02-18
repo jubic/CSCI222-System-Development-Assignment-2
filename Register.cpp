@@ -1,3 +1,7 @@
+#include smth laaa
+
+ok
+nie
 .clear();
     cin.ignore(100, '\n');
 
