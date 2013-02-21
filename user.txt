@@ -1,0 +1,20 @@
+USER
+S8790864A,mark,mark@astarglobal.edu.sg,98989898,mark,mark,ADMN,U,Where are you studying,SIM,0
+S7869403E,ken,ken@astarglobal.edu.sg,92222898,ken,ken,ADMN,U,Where are you studying,SIM,0
+S1928392T,joseph,joseph@astarglobal.edu.sg,92333718,joseph,joseph,ADMN,U,Where are you studying,SIM,0
+S9583920G,ricky,ricky@astarglobal.edu.sg,81822801,ricky,ricky,ADMN,U,Where are you studying,SIM,0
+S9384837G,ck,ck@astarglobal.edu.sg,97859420,ck,ck,ADMN,U,Where are you studying,SIM,0
+S9485940Y,shane,shane@astarglobal.edu.sg,94534574,shane,shane,LECT,U,Where are you studying,SIM,0
+S0348392V,june,june@astarglobal.edu.sg,92223345,june,june,LECT,U,Where are you studying,SIM,0
+S9384029D,Peter Parker,peterparker@astarglobal.edu.sg,97556432,peterparker,peterparker,STUD,U,Where are you studying,SIM,0
+S9384728Q,Mary Jane,maryjane@astarglobal.edu.sg,94567890,maryjane,maryjane,STUD,U,Where are you studying,SIM,0
+S9038291F,Ted Micheal,tedmicheal@astarglobal.edu.sg,94567554,tedmicheal,tedmicheal,STUD,U,Where are you studying,SIM,0
+S9384920I,Bella Swan,bellaswan@astarglobal.edu.sg,97543456,bellaswan,bellaswan,STUD,U,Where are you studying,SIM,0
+S8852719D,jason,jason@astarglobal.edu.sg,82225598,jason,jason,STUD,U,Where are you studying,SIM,0
+S1233948E,aaron,aaron@astarglobal.edu.sg,82557798,aaron,aaron,STUD,U,Where are you studying,SIM,0
+S2938493F,michael,michael@astarglobal.edu.sg,91235598,michael,michael,STUD,U,Where are you studying,SIM,0
+S9028374U,jackson,jackson@astarglobal.edu.sg,98188729,jackson,jackson,STUD,U,Where are you studying,SIM,0
+S7632334E,ellen,ellen@astarglobal.edu.sg,95675598,ellen,ellen,STUD,U,Where are you studying,SIM,3
+S8764545F,bruce,bruce@astarglobal.edu.sg,91256678,bruce,bruce,STUD,U,Where are you studying,SIM,3
+S8906543U,wayne,wayne@astarglobal.edu.sg,81115598,wayne,wayne,STUD,U,Where are you studying,SIM,0
+S3432343A,michelle,michelle@astarglobal.edu.sg,91678998,michelle,michelle,STUD,L,Where are you studying,SIM,0

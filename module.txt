@@ -1,0 +1,4 @@
+MODULE
+shane,System Development,CSCI222,45
+june,Interacting Systems,CSCI212,45
+japit,Database,CSCI235,45
