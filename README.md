@@ -5,5 +5,5 @@ To compile this program: g++ main.cpp mainFunctions.cpp -l sqlite3 -o main.exe<b
 To run: ./main.exe
 
 
-To run test: make
+To run test: make<br/>
              ./mainTest.exe
